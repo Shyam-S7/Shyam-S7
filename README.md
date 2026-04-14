@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shyam S
 
-**🎯 Aspiring Data Scientist | Future ML/DL Engineer**  
+**🎯Data Scientist | Software Engineer**  
 💡 *Curious about systems, data, and intelligent solutions*
 
 <div align="left">
@@ -18,9 +18,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **2nd Year Engineering Student** passionately exploring the world of AI/ML.
-- 🧠 Focused on **Machine Learning, Deep Learning & Problem Solving**.
-- 📊 Deeply interested in **Data Analysis, Predictive Modeling & Algorithms**.
+- 🎓 **Engineering Student** passionately exploring the world of Tech.
+- 🧠 Focused on **Data Science ,Machine Learning & Problem Solving**.
+- 📊 Deeply interested in **Data science,designing systems,Predictive Modeling & Algorithms**.
 - 🔍 I love understanding how complex systems work under the hood and optimizing them.
 - ⚡ Currently building strong foundations in **Data Structures, Algorithms (DSA) & Data Science**.
 
@@ -67,16 +67,10 @@
 
 ---
 
-## 🎯 Goals for the Year
-- 🔥 Solve **500+ DSA Problems** to sharpen my algorithmic thinking.
-- 💼 Become a proficient **Freelance Data Analyst**.
-- 🤖 Transition into a full-fledged **ML/DL Engineer**.
-- 🚀 Build and deploy real-world, impactful AI/ML systems.
-
 ---
 
 ## 📂 Featured Projects
-🚧 *Coming soon... I am currently working on awesome Data Analysis & Machine Learning projects. Stay tuned!*
+🚧 *Coming soon... I am currently working on awesome Machine Learning project. Stay tuned!*
 
 ---
 
