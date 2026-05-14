@@ -57,20 +57,10 @@
   <img src="https://img.shields.io/badge/DVC-13BACE?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
 </p>
 
----
 
-## 📚 Currently Learning
-- 📌 **Data Structures & Algorithms (DSA)**
-- 📌 **SQL for Data Analysis**
-- 📌 **Power BI & Excel** for powerful visual analytics
-- 📌 **Fundamental & Advanced Machine Learning Patterns**
 
 ---
 
----
-
-## 📂 Featured Projects
-🚧 *Coming soon... I am currently working on awesome Machine Learning project. Stay tuned!*
 
 ---
 
@@ -88,5 +78,3 @@
 
 ---
 
-## ⚡ Fun Fact
-> *"I enjoy analyzing problems deeply and turning complex data into meaningful, actionable insights!"* 🚀
