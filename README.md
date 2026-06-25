@@ -62,19 +62,3 @@
 ---
 
 
----
-
-## 📊 GitHub & LeetCode Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyam-S7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shyam's GitHub Stats" />
-  <br />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-S7&theme=tokyonight&hide_border=true&background=0d1117" alt="Shyam's GitHub Streak" />
-  <br />
-  <br />
-  <img src="https://leetcard.jacoblin.cool/ShyamJCR?theme=dark&font=Syne&ext=activity" alt="Shyam's LeetCode Stats" />
-</div>
-
----
-
